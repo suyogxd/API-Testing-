@@ -2,11 +2,10 @@
 
 A manual API testing project performed on publicly available REST APIs using Postman and Swagger. This project demonstrates test case design, API validation, CRUD operation testing, status code verification, response validation, positive testing, negative testing, and defect identification.
 
-**JSON Placeholder Test Case:** https://docs.google.com/spreadsheets/d/1VP0phg78CnZvuRJhYW7mGTvEl4WGrMd_PLhN_k6hu1o?gid=0#gid=0
-**FakeRest API Test Case:** https://docs.google.com/spreadsheets/d/1VP0phg78CnZvuRJhYW7mGTvEl4WGrMd_PLhN_k6hu1o?gid=1551511402#gid=1551511402
-**Swagger Petstore API:** https://docs.google.com/spreadsheets/d/1VP0phg78CnZvuRJhYW7mGTvEl4WGrMd_PLhN_k6hu1o?gid=1354569764#gid=1354569764
+**JSON Placeholder Test Case:** https://docs.google.com/spreadsheets/d/1VP0phg78CnZvuRJhYW7mGTvEl4WGrMd_PLhN_k6hu1o?gid=0#gid=0 <br>
+**FakeRest API Test Case:** https://docs.google.com/spreadsheets/d/1VP0phg78CnZvuRJhYW7mGTvEl4WGrMd_PLhN_k6hu1o?gid=1551511402#gid=1551511402 <br>
+**Swagger Petstore API:** https://docs.google.com/spreadsheets/d/1VP0phg78CnZvuRJhYW7mGTvEl4WGrMd_PLhN_k6hu1o?gid=1354569764#gid=1354569764 <br>
 
----
 
 ## Project Objective
 
